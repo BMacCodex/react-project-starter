@@ -1,18 +1,64 @@
 {
   "users": [
     {
-      "id": 1,
+      "id": "1",
       "name": "Myra"
     },
     {
       "name": "Elsie Price",
-      "id": 3
+      "id": "3"
     },
     {
       "name": "Harold Strosin",
-      "id": 4
+      "id": "4"
     }
   ],
-  "albums": [],
+  "albums": [
+    {
+      "id": 10,
+      "title": "Hiking Trip",
+      "userId": 1
+    },
+    {
+      "id": "2fa4",
+      "userId": "1",
+      "title": "Fantastic Concrete Pants"
+    },
+    {
+      "id": "723a",
+      "userId": "1",
+      "title": "Modern Granite Tuna"
+    },
+    {
+      "id": "4486",
+      "userId": "1",
+      "title": "Generic Cotton Chips"
+    },
+    {
+      "id": "9e7e",
+      "userId": "1",
+      "title": "Refined Metal Salad"
+    },
+    {
+      "id": "0a6e",
+      "userId": "1",
+      "title": "Recycled Rubber Towels"
+    },
+    {
+      "id": "ab89",
+      "userId": "3",
+      "title": "Bespoke Metal Keyboard"
+    },
+    {
+      "id": "43e7",
+      "userId": "1",
+      "title": "Oriental Wooden Computer"
+    },
+    {
+      "id": "32e6",
+      "userId": "1",
+      "title": "Intelligent Frozen Towels"
+    }
+  ],
   "photos": []
 }
